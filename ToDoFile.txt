@@ -1,0 +1,5 @@
+Grocery Shopping, priority 2
+gardening, priority 3
+baking, priority 3
+dust, 1
+Vacuuming, priority 1
