@@ -1,2 +1,5 @@
-# IntroToProg-Python-Mod06
-Python script and text file to manage a to-do list
+# Module06 Website
+---
+[Google Homepage](https://www.google.com "Google's Homepage")
+
+[GitHub Webpage Code CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
